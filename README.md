@@ -1,3 +1,6 @@
+![image](https://github.com/Maroon152002/movieSite/assets/95140421/b83948c2-a2cb-46a8-991e-35d4fca01947)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
